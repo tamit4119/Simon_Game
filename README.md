@@ -42,9 +42,7 @@ This is my web-based version of the classic Simon memory game, built using HTML,
 
 I have deployed this project on GitHub Pages. You can play it live here:
 
-[Simon Game Live Demo](https://your-github-username.github.io/your-repo-name/)
-
-(Replace the above link with your actual GitHub Pages URL if needed.)
+[Simon Game Live Demo](https://tamit4119.github.io/Simon_Game/)
 
 ## Credits
 
@@ -53,5 +51,6 @@ I have deployed this project on GitHub Pages. You can play it live here:
 - Inspired by the original Simon electronic game
 
 ## License
+
 
 This project is open source.
